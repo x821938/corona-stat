@@ -107,7 +107,9 @@ if __name__ == "__main__":
     Get your fresh customized statistics here...
     Raw data fetched from: https://github.com/owid/covid-19-data/tree/master/public/data
 
-    Build with python and streamlit
+    Built with python and streamlit
+
+    Source code here: https://github.com/x821938/corona-stat/blob/master/corona_stat.py
     """
 
     statList = {  # Lookuptable to give column names a more human touch
